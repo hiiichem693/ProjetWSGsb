@@ -13,7 +13,7 @@ use App\metier\Visiteur;
 use Illuminate\Database\QueryException;
 use Illuminate\Support\Facades\Hash;
 use DB;
-use App\metier\FicheFrais;
+use App\metier\Frais;
 use App\metier\Etat;
 
 class ServiceLogin
